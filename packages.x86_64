@@ -88,7 +88,6 @@ usbutils
 alsa-firmware
 alsa-plugins
 alsa-utils
-ffmpegthumbnailer
 gst-libav
 gst-plugin-pipewire
 gst-plugins-bad
@@ -143,7 +142,6 @@ xz
 
 ## Network
 bind
-dhclient
 dnsmasq
 ethtool
 iwd
@@ -198,53 +196,51 @@ hdparm
 # DESKTOP
 
 ## Desktop environment
-plasma-desktop
-plasma-workspace
-plasma-pa
-plasma-nm
-plasma-systemmonitor
-plasma-firewall
-plasma-browser-integration
-plasma-disks
-powerdevil
+ark
 baloo-widgets
+bluedevil
+breeze-gtk
+dolphin
 dolphin-plugins
+eos-plasma-sddm-config
 ffmpegthumbs
+gwenview
 haruna
+kate
 kcalc
-kdeplasma-addons
-kdeconnect
 kde-gtk-config
 kde-inotify-survey
 kdeconnect
 kdegraphics-thumbnailers
 kdenetwork-filesharing
 kdepim-addons
+kdeplasma-addons
+kgamma
+khotkeys
+kinfocenter
+kinit
 kio-admin
 kio-extras
 kio-fuse
 kio-gdrive
-kgamma
-kscreen
-khotkeys
-kinfocenter
-libappindicator-gtk3
-xwaylandvideobridge
-ark
-bluedevil
-breeze-gtk
-dolphin
-gwenview
-kcalc
-kate
-okular
-sddm-kcm
-spectacle
-xsettingsd
 konsole
+kscreen
+kwallet-pam
+libappindicator-gtk3
+okular
+plasma-browser-integration
+plasma-desktop
+plasma-disks
+plasma-firewall
+plasma-nm
+plasma-pa
+plasma-systemmonitor
+plasma-workspace
+powerdevil
 sddm-kcm
 spectacle
 xsettingsd
+xwaylandvideobridge
 
 ## Browser
 firefox
