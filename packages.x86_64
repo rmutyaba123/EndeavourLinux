@@ -188,6 +188,7 @@ syslinux
 
 ## Live iso tools
 clonezilla
+efitools
 gpart
 grsync
 partitionmanager
@@ -204,6 +205,7 @@ dolphin
 dolphin-plugins
 eos-plasma-sddm-config
 ffmpegthumbs
+fwupd
 gwenview
 haruna
 kate
