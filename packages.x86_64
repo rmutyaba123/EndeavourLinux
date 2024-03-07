@@ -203,7 +203,6 @@ bluedevil
 breeze-gtk
 dolphin
 dolphin-plugins
-eos-plasma-sddm-config
 ffmpegthumbs
 fwupd
 gwenview
@@ -218,7 +217,6 @@ kdenetwork-filesharing
 kdepim-addons
 kdeplasma-addons
 kgamma
-khotkeys
 kinfocenter
 kinit
 kio-admin
@@ -229,6 +227,7 @@ konsole
 kscreen
 kwallet-pam
 libappindicator-gtk3
+maliit-keyboard
 okular
 plasma-browser-integration
 plasma-desktop
@@ -239,6 +238,7 @@ plasma-pa
 plasma-systemmonitor
 plasma-workspace
 powerdevil
+print-manager
 sddm-kcm
 spectacle
 xsettingsd
